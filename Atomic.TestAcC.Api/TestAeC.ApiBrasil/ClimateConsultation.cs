@@ -24,7 +24,6 @@ public class ClimateConsultation : IClimateConsultation
         {
             var climateCityJson = await citytClimateResponse.Content.ReadAsStringAsync();
             var climateCity = JsonConvert.DeserializeObject<CityClimateDto>(climateCityJson);
-            return climateCity;
 
             foreach (var climateDto in climateCity.clima)
             {
