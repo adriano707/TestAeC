@@ -15,7 +15,7 @@
             
         }
 
-        public City(string cidade, string estado, DateTime atualziadoEm)
+        public City(string cidade, string estado, DateTime atualziadoEm, List<CityClimate> listCityClimates)
         {
             Cidade = cidade ?? throw new ArgumentNullException(nameof(cidade));
             Estado = estado ?? throw new ArgumentNullException(nameof(estado));

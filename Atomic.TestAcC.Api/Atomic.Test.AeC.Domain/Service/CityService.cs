@@ -20,7 +20,7 @@ namespace Atomic.Test.AeC.Domain.Service
 
         public async Task<City> Save(string cidade, string estado, DateTime atualizadoEm, List<CityClimate> listCityClimate)
         {
-            City city = new City(cidade, estado, atualizadoEm);
+            City city = new City(cidade, estado, atualizadoEm, listCityClimate);
             await _repository.InsertAsync(city);
             await _repository.SaveChangeAsync();
 
