@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Atomic.TestAcC.Api.props" />
+</Project>

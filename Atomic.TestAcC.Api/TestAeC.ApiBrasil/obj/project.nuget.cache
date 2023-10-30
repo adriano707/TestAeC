@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AIB0CwzKJRBkD39/ey3BOtx939jdvR9qxWh+20CLUD1+PDDA4qHH7eAxhuG++4mCbJ62bBhXwrAIX7yMZIigOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mano1\\source\\repos\\Atomic.TestAcC.Api\\TestAeC.ApiBrasil\\TestAeC.ApiBrasil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mano1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

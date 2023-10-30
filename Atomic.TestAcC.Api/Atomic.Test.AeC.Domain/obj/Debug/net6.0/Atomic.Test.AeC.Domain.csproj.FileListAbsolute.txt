@@ -1,0 +1,12 @@
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\bin\Debug\net6.0\Atomic.Test.AeC.Domain.deps.json
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\bin\Debug\net6.0\Atomic.Test.AeC.Domain.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\bin\Debug\net6.0\Atomic.Test.AeC.Domain.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.csproj.AssemblyReference.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.AssemblyInfoInputs.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.AssemblyInfo.cs
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\refint\Atomic.Test.AeC.Domain.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\Atomic.Test.AeC.Domain.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.Test.AeC.Domain\obj\Debug\net6.0\ref\Atomic.Test.AeC.Domain.dll

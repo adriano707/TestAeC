@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1XldX4xs6Q6rFPxtQSfoVF3tfUdRhZs33rrbOeIRHl8=",
+  "Source": "Atomic.TestAcC.Api",
+  "BasePath": "_content/Atomic.TestAcC.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

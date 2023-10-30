@@ -1,0 +1,17 @@
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\bin\Debug\net6.0\Atomic.TestAeC.Data.deps.json
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\bin\Debug\net6.0\Atomic.TestAeC.Data.runtimeconfig.json
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\bin\Debug\net6.0\Atomic.TestAeC.Data.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\bin\Debug\net6.0\Atomic.TestAeC.Data.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\bin\Debug\net6.0\Atomic.Test.AeC.Domain.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\bin\Debug\net6.0\Atomic.Test.AeC.Domain.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.csproj.AssemblyReference.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.AssemblyInfoInputs.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.AssemblyInfo.cs
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.csproj.CoreCompileInputs.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.csproj.CopyComplete
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\refint\Atomic.TestAeC.Data.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\Atomic.TestAeC.Data.genruntimeconfig.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\Atomic.TestAeC.Data\obj\Debug\net6.0\ref\Atomic.TestAeC.Data.dll

@@ -1,0 +1,15 @@
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\bin\Debug\net6.0\TestAeC.ApiBrasil.deps.json
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\bin\Debug\net6.0\TestAeC.ApiBrasil.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\bin\Debug\net6.0\TestAeC.ApiBrasil.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.csproj.AssemblyReference.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.AssemblyInfoInputs.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.AssemblyInfo.cs
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.csproj.CoreCompileInputs.cache
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\refint\TestAeC.ApiBrasil.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\ref\TestAeC.ApiBrasil.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\bin\Debug\net6.0\Atomic.Test.AeC.Domain.dll
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\bin\Debug\net6.0\Atomic.Test.AeC.Domain.pdb
+C:\Users\mano1\source\repos\Atomic.TestAcC.Api\TestAeC.ApiBrasil\obj\Debug\net6.0\TestAeC.ApiBrasil.csproj.CopyComplete

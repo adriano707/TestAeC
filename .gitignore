@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Address-Person-Api/Address.API
+/CollatzProblem
+/config
+/ConsoleApp1
+/ExampleVue
+/MinhaDemoApp
+/RabbitMQ
+/TesteAspNet
+/TesteKognit
+/Webhelp
+/WpfApp1
