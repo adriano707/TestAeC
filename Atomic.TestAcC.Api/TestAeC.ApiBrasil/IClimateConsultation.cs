@@ -11,6 +11,6 @@ namespace TestAeC.ApiBrasil
     public interface IClimateConsultation
     {
         Task<CityClimateDto> CityClimateConsultation(int idCidade, List<CityClimate> climateList);
-        Task<ClimaAeroportoDto> AirportClimateConsultation(string codigoIcao);
+        Task<ClimateAirportDto> AirportClimateConsultation(string codigoIcao);
     }
 }

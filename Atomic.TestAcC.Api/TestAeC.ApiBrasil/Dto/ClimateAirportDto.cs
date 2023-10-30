@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestAeC.ApiBrasil.Dto
 {
 
-    public class ClimaAeroportoDto
+    public class ClimateAirportDto
     {
         public string codigo_icao { get; set; }
         public DateTime atualizado_em { get; set; }

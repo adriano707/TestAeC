@@ -45,7 +45,7 @@ public class ClimateConsultation : IClimateConsultation
         throw new HttpRequestException($"Request error: {citytClimateResponse.StatusCode}");
     }
 
-    public async Task<ClimaAeroportoDto> AirportClimateConsultation(string codigoIcao)
+    public async Task<ClimateAirportDto> AirportClimateConsultation(string codigoIcao)
     {
         string url = $"https://brasilapi.com.br/api/cptec/v1/clima/aeroporto/{codigoIcao}";
 
@@ -53,9 +53,9 @@ public class ClimateConsultation : IClimateConsultation
 
         if (airportClimateResponse.IsSuccessStatusCode)
         {
-            var climaAeroportoJson = await airportClimateResponse.Content.ReadAsStringAsync();
-            var climaAeroporto = JsonConvert.DeserializeObject<ClimaAeroportoDto>(climaAeroportoJson);
-            return climaAeroporto;
+            var climateAirportJson = await airportClimateResponse.Content.ReadAsStringAsync();
+            var climateAirportDto = JsonConvert.DeserializeObject<ClimateAirportDto>(climateAirportJson);
+            return climateAirportDto;
         }
         
         throw new HttpRequestException($"Request error: {airportClimateResponse.StatusCode}");

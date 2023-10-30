@@ -12,13 +12,14 @@
         public int Umidade { get; private set;}
         public string Condicao { get; private set; }
         public string CondicaoDesc { get; private set; }
+        public int Temp { get; set; }
 
         public HistoricAirportClimate()
         {
             
         }
 
-        public HistoricAirportClimate(string codigoIcao, DateTime atualizadoEm, string pressaoAtmosferica, string visibilidade, int vento, int direcaoVento, int umidade, string condicao, string condicaoDesc)
+        public HistoricAirportClimate(string codigoIcao, DateTime atualizadoEm, string pressaoAtmosferica, string visibilidade, int vento, int direcaoVento, int umidade, string condicao, string condicaoDesc, int temp)
         {
             CodigoIcao = codigoIcao ?? throw new ArgumentNullException(nameof(codigoIcao));
             AtualizadoEm = atualizadoEm;
@@ -29,6 +30,7 @@
             Umidade = umidade;
             Condicao = condicao ?? throw new ArgumentNullException(nameof(condicao));
             CondicaoDesc = condicaoDesc ?? throw new ArgumentNullException(nameof(condicaoDesc));
+            Temp = temp;
         }
     }
 }

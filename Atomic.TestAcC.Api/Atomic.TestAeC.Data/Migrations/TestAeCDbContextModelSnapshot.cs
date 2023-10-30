@@ -114,6 +114,9 @@ namespace Atomic.TestAeC.Data.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(50)");
 
+                    b.Property<int>("Temp")
+                        .HasColumnType("int");
+
                     b.Property<int>("Umidade")
                         .HasColumnType("int");
 

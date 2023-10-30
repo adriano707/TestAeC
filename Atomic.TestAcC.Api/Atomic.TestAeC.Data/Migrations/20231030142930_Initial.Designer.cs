@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Atomic.TestAeC.Data.Migrations
 {
     [DbContext(typeof(TestAeCDbContext))]
-    [Migration("20231030031645_Initial")]
+    [Migration("20231030142930_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -116,6 +116,9 @@ namespace Atomic.TestAeC.Data.Migrations
                     b.Property<string>("PressaoAtmosferica")
                         .IsRequired()
                         .HasColumnType("varchar(50)");
+
+                    b.Property<int>("Temp")
+                        .HasColumnType("int");
 
                     b.Property<int>("Umidade")
                         .HasColumnType("int");

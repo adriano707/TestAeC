@@ -35,7 +35,7 @@ namespace Atomic.TestAcC.Api.Controllers
             var airportWeather = await _climateConsultation.AirportClimateConsultation(codigoIcao);
             await _airportService.Save(airportWeather.codigo_icao, airportWeather.atualizado_em, airportWeather.pressao_atmosferica, 
                 airportWeather.visibilidade, airportWeather.vento, airportWeather.direcao_vento, airportWeather.umidade, 
-                airportWeather.condicao, airportWeather.condicao_Desc);
+                airportWeather.condicao, airportWeather.condicao_Desc, airportWeather.temp);
 
             return Ok(airportWeather);
         }

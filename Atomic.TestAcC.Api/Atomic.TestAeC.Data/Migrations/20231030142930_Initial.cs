@@ -40,11 +40,12 @@ namespace Atomic.TestAeC.Data.Migrations
                     DirecaoVento = table.Column<int>(type: "int", nullable: false),
                     Umidade = table.Column<int>(type: "int", nullable: false),
                     Condicao = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    CondicaoDesc = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    CondicaoDesc = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Temp = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_HistoricoClimaAeroporto", x => x.Id);
+                    table.PrimaryKey("PK_HistoricAirportClimate", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
