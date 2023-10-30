@@ -18,7 +18,7 @@ namespace Atomic.Test.AeC.Domain.Service
             return cidade;
         }
 
-        public async Task<City> Save(string cidade, string estado, DateTime atualizadoEm)
+        public async Task<City> Save(string cidade, string estado, DateTime atualizadoEm, List<CityClimate> listCityClimate)
         {
             City city = new City(cidade, estado, atualizadoEm);
             await _repository.InsertAsync(city);
