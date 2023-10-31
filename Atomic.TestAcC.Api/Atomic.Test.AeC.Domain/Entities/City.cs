@@ -20,7 +20,7 @@
             Cidade = cidade ?? throw new ArgumentNullException(nameof(cidade));
             Estado = estado ?? throw new ArgumentNullException(nameof(estado));
             AtualziadoEm = atualziadoEm;
-            _climaList = new List<CityClimate>();
+            _climaList = listCityClimates;
         }
     }
 }
